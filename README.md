@@ -6,3 +6,10 @@ Information for Training for a Marathon
 * **Week 2:** 3 miles (Mon), Rest (Tue), 3 miles (Wed), Rest (Thu), 3 miles (Fri), Rest (Sat), 6 miles (Sun - Long Run)
 * **Week 3:** 3 miles (Mon), Rest (Tue), 4 miles (Wed), Rest (Thu), 3 miles (Fri), Rest (Sat), 7 miles (Sun - Long Run)
 * **Week 4:** 3 miles (Mon), Rest (Tue), 4 miles (Wed), Rest (Thu), 3 miles (Fri), Rest (Sat), 8 miles (Sun - Long Run)
+
+## Phase 2: Building Endurance (Weeks 5-8)
+
+* **Week 5:** 3 miles (Mon), Rest (Tue), 4 miles (Wed), Rest (Thu), 4 miles (Fri), Rest (Sat), 9 miles (Sun - Long Run)
+* **Week 6:** 3 miles (Mon), Rest (Tue), 5 miles (Wed), Rest (Thu), 4 miles (Fri), Rest (Sat), 10 miles (Sun - Long Run)
+* **Week 7:** 3 miles (Mon), Rest (Tue), 5 miles (Wed), Rest (Thu), 4 miles (Fri), Rest (Sat), 11 miles (Sun - Long Run)
+* **Week 8 (Rest Week):** 3 miles (Mon), Rest (Tue), 4 miles (Wed), Rest (Thu), 3 miles (Fri), Rest (Sat), 8 miles (Sun - Long Run)
